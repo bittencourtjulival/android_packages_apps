@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Julival Bittencourt (bittencourtjulival)",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 6 Pro",
+			"filename": "SpiceOS-3.0-STABLE-20210501-tulip-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos/files/11/jasmine_sprout/SpiceOS-2.2-NEW_ERA-20210101-jasmine_sprout-OFFICIAL.zip/download",
+			"timestamp": 1609478380,
+			"md5": "2a448befca26c56b482e1f7a9a3f5cfe",
+			"size": 895329352,
+			"version": "3.0",
+			"buildtype": "Stable",
+			"forum": "https://forum.xda-developers.com/mi-a2/development/rom-spiceos-2-0-beta-t4190275",
+			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/BETA/2020-11-27/FlameGApps-11.0-basic-arm64-20201127-BETA.zip/download",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/"
+		}
+	]
+}
